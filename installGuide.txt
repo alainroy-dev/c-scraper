@@ -1,0 +1,10 @@
+dotnet add package Microsoft.Playwright
+dotnet build
+
+dotnet tool install --global Microsoft.Playwright.CLI
+playwright install
+
+dotnet add package DotNetEnv
+
+dotnet run
+dotnet publish -c Release -r win-x64 --self-contained true

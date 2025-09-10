@@ -1,0 +1,497 @@
+[
+  {
+    "eventId": "f28578b3-70d5-4603-d9e6-50ff6b911c56",
+    "sportType": "Boxing",
+    "startTime": "2025-09-12T03:00:00Z",
+    "status": "NotStarted",
+    "isAmericanSport": false,
+    "homeTeam": {
+      "competitorId": "287d41ab-c0d6-852a-aa61-c301ed7bfd94",
+      "title": "Anthony Olascuaga"
+    },
+    "awayTeam": {
+      "competitorId": "bc133454-66de-f1c0-c3c9-b5437cbfd27f",
+      "title": "Juan Carlos Camacho"
+    }
+  },
+  {
+    "eventId": "fc57512f-e28a-875e-d731-0f9f470feb14",
+    "sportType": "Boxing",
+    "startTime": "2025-09-13T18:00:00Z",
+    "status": "NotStarted",
+    "isAmericanSport": false,
+    "homeTeam": {
+      "competitorId": "3fca17d9-d5b2-85f0-a089-10377e14e68d",
+      "title": "Matthew Boreland"
+    },
+    "awayTeam": {
+      "competitorId": "2c1d5008-0746-f10e-7bc6-185d6f1700de",
+      "title": "Ruadhan Farrell"
+    }
+  },
+  {
+    "eventId": "40d5afae-3f09-1cb8-f833-6df962e7e164",
+    "sportType": "Boxing",
+    "startTime": "2025-09-13T19:00:00Z",
+    "status": "NotStarted",
+    "isAmericanSport": false,
+    "homeTeam": {
+      "competitorId": "1d184b30-fd86-e41e-afa0-a2850a195c14",
+      "title": "Tyrone McKenna"
+    },
+    "awayTeam": {
+      "competitorId": "5e0f28ee-f3cc-5363-b52e-c4bc17b64041",
+      "title": "Dylan Moran"
+    }
+  },
+  {
+    "eventId": "2d65722e-8baa-c646-49d4-12a7ac8e69cb",
+    "sportType": "Boxing",
+    "startTime": "2025-09-13T20:00:00Z",
+    "status": "NotStarted",
+    "isAmericanSport": false,
+    "homeTeam": {
+      "competitorId": "bfd7b42f-44df-482b-ceb1-18ec02a90371",
+      "title": "Ishmael Davis"
+    },
+    "awayTeam": {
+      "competitorId": "ee34dbe4-34f4-299c-d1d3-eeee33fb3f41",
+      "title": "Caoimhin Agyarko"
+    }
+  },
+  {
+    "eventId": "57e9d3b4-6a8c-a160-2990-9d7d44a4c1bf",
+    "sportType": "Boxing",
+    "startTime": "2025-09-13T21:00:00Z",
+    "status": "NotStarted",
+    "isAmericanSport": false,
+    "homeTeam": {
+      "competitorId": "284698c1-fc06-40fa-c518-ebf47c61732b",
+      "title": "Lewis Crocker"
+    },
+    "awayTeam": {
+      "competitorId": "54347d29-adf3-f2ce-35af-b39caa14ec26",
+      "title": "Paddy Donovan"
+    }
+  },
+  {
+    "eventId": "e9d952e7-5ef1-85a6-c396-0063313cef53",
+    "sportType": "Boxing",
+    "startTime": "2025-09-13T21:00:00Z",
+    "status": "NotStarted",
+    "isAmericanSport": false,
+    "homeTeam": {
+      "competitorId": "58312d9e-c4f5-67c8-d6bb-1c5e371a113c",
+      "title": "Reito Tsutsumi"
+    },
+    "awayTeam": {
+      "competitorId": "a3802b6c-b87e-005d-abc5-86e2f534c577",
+      "title": "Javier Martinez"
+    }
+  },
+  {
+    "eventId": "87660674-454e-5779-f6b1-34a7e888cb3e",
+    "sportType": "Boxing",
+    "startTime": "2025-09-13T21:45:00Z",
+    "status": "NotStarted",
+    "isAmericanSport": false,
+    "homeTeam": {
+      "competitorId": "b5dd36af-c3cb-6ff0-c98b-8381bd4c2d41",
+      "title": "Steven Nelson"
+    },
+    "awayTeam": {
+      "competitorId": "ff94fca1-45b6-fa6f-a4cf-66fc01971d28",
+      "title": "Raiko Santana"
+    }
+  },
+  {
+    "eventId": "26af5878-dcf4-99ca-8a95-783ef0a60130",
+    "sportType": "Boxing",
+    "startTime": "2025-09-13T22:30:00Z",
+    "status": "NotStarted",
+    "isAmericanSport": false,
+    "homeTeam": {
+      "competitorId": "198198b0-4b23-30f8-7668-751497a4af46",
+      "title": "Ivan Dychko"
+    },
+    "awayTeam": {
+      "competitorId": "1abd694a-7e95-e627-7a60-30ba8715ffbd",
+      "title": "Jermaine Franklin Jr"
+    }
+  },
+  {
+    "eventId": "b6cc0368-dd22-dff7-c18d-13b08382f671",
+    "sportType": "Boxing",
+    "startTime": "2025-09-13T23:30:00Z",
+    "status": "NotStarted",
+    "isAmericanSport": false,
+    "homeTeam": {
+      "competitorId": "0d310def-c5d5-4b83-7967-4ad05303134b",
+      "title": "Serhii Bohachuk"
+    },
+    "awayTeam": {
+      "competitorId": "0179a2ff-8011-c687-38d6-60300adb914d",
+      "title": "Brandon Adams"
+    }
+  },
+  {
+    "eventId": "4716b0e7-fb4a-37e8-36c3-3de9e38c58a6",
+    "sportType": "Boxing",
+    "startTime": "2025-09-14T00:30:00Z",
+    "status": "NotStarted",
+    "isAmericanSport": false,
+    "homeTeam": {
+      "competitorId": "3d52fede-3973-a583-9618-2aef76d818fe",
+      "title": "Mohammed Alakel"
+    },
+    "awayTeam": {
+      "competitorId": "7c2b606b-5794-2440-000e-42008b86ab18",
+      "title": "John Ornelas"
+    }
+  },
+  {
+    "eventId": "9592fce8-b197-6334-f276-334c0d41f4c0",
+    "sportType": "Boxing",
+    "startTime": "2025-09-14T01:30:00Z",
+    "status": "NotStarted",
+    "isAmericanSport": false,
+    "homeTeam": {
+      "competitorId": "4e148614-d44b-24b7-e602-2aa925e231cd",
+      "title": "Christian Mbilli"
+    },
+    "awayTeam": {
+      "competitorId": "97e4ab5d-0194-5c68-d9bf-510e023dcf4e",
+      "title": "Lester Martinez"
+    }
+  },
+  {
+    "eventId": "a7f5c6b7-4765-d1c5-50ed-f4519ac459b5",
+    "sportType": "Boxing",
+    "startTime": "2025-09-14T02:30:00Z",
+    "status": "NotStarted",
+    "isAmericanSport": false,
+    "homeTeam": {
+      "competitorId": "8ff73256-f1aa-f588-fc7a-4d011e87cbbb",
+      "title": "Callum Walsh"
+    },
+    "awayTeam": {
+      "competitorId": "1f86d6e4-7dc7-78ec-da7c-004d7eeeba92",
+      "title": "Fernando Vargas Jr"
+    }
+  },
+  {
+    "eventId": "cd12e083-d651-239d-7c2f-dadf4da54acf",
+    "sportType": "Boxing",
+    "startTime": "2025-09-14T04:00:00Z",
+    "status": "NotStarted",
+    "isAmericanSport": false,
+    "homeTeam": {
+      "competitorId": "3a8722df-40b9-a68b-4cce-2aacbfa88115",
+      "title": "Saul Alvarez"
+    },
+    "awayTeam": {
+      "competitorId": "a8f3835f-88bc-79fb-83ee-767ec04edbf0",
+      "title": "Terence Crawford"
+    }
+  },
+  {
+    "eventId": "6aca952b-5f43-85c2-407d-e0599f464423",
+    "sportType": "Boxing",
+    "startTime": "2025-09-14T07:00:00Z",
+    "status": "NotStarted",
+    "isAmericanSport": false,
+    "homeTeam": {
+      "competitorId": "57166144-4285-5cc9-eac5-9c416f7905a2",
+      "title": "Yuni Takada"
+    },
+    "awayTeam": {
+      "competitorId": "e46afd35-e2b2-8403-e588-c95dd1ab66c2",
+      "title": "Ryusei Matsumoto"
+    }
+  },
+  {
+    "eventId": "949a1692-8691-b76c-6840-21d7bc026ad5",
+    "sportType": "Boxing",
+    "startTime": "2025-09-14T07:00:00Z",
+    "status": "NotStarted",
+    "isAmericanSport": false,
+    "homeTeam": {
+      "competitorId": "07433816-7934-dc01-96b8-95e05eab7972",
+      "title": "Yudai Murakami"
+    },
+    "awayTeam": {
+      "competitorId": "e81fdf1e-6bee-fd07-c650-1987cc57aa92",
+      "title": "Taiga Imanaga"
+    }
+  },
+  {
+    "eventId": "d0672778-9c49-36b5-da09-d467bace6af1",
+    "sportType": "Boxing",
+    "startTime": "2025-09-14T10:00:00Z",
+    "status": "NotStarted",
+    "isAmericanSport": false,
+    "homeTeam": {
+      "competitorId": "f3f28f8c-8bbd-3c35-a004-c131aca08e54",
+      "title": "Yoshiki Takei"
+    },
+    "awayTeam": {
+      "competitorId": "e725ab31-d7f9-7570-0d64-daa82aa4a785",
+      "title": "Christian Medina Jimenez"
+    }
+  },
+  {
+    "eventId": "e41cc3fe-5785-b8c0-8d83-4753394d42ae",
+    "sportType": "Boxing",
+    "startTime": "2025-09-14T11:00:00Z",
+    "status": "NotStarted",
+    "isAmericanSport": false,
+    "homeTeam": {
+      "competitorId": "d66f7e52-8024-3724-ad16-b8d1bace23e2",
+      "title": "Naoya Inoue"
+    },
+    "awayTeam": {
+      "competitorId": "726324f0-3b78-f785-6fe5-01c92458f254",
+      "title": "Murodjon Akhmadaliev"
+    }
+  },
+  {
+    "eventId": "74a022cb-a546-d77c-7781-357140ed1218",
+    "sportType": "Boxing",
+    "startTime": "2025-09-18T06:00:00Z",
+    "status": "NotStarted",
+    "isAmericanSport": false,
+    "homeTeam": {
+      "competitorId": "ee422179-f21d-b80e-0c55-c5a96664f415",
+      "title": "Floyd Masson"
+    },
+    "awayTeam": {
+      "competitorId": "f0f90726-470a-91a0-f66b-0836b4e65703",
+      "title": "Dharmender Grewal"
+    }
+  },
+  {
+    "eventId": "0cfb875a-bf51-b41b-1308-086d40a22bf8",
+    "sportType": "Boxing",
+    "startTime": "2025-09-18T06:00:00Z",
+    "status": "NotStarted",
+    "isAmericanSport": false,
+    "homeTeam": {
+      "competitorId": "3c8e79ab-b394-a569-bffa-9b7b1a0a0ce4",
+      "title": "Danny Keating"
+    },
+    "awayTeam": {
+      "competitorId": "3f799600-a0de-5384-3670-983932896ccb",
+      "title": "Sachin Nautiyal"
+    }
+  },
+  {
+    "eventId": "34d86cab-7125-38b6-c628-60a6226facd2",
+    "sportType": "Boxing",
+    "startTime": "2025-09-18T06:00:00Z",
+    "status": "NotStarted",
+    "isAmericanSport": false,
+    "homeTeam": {
+      "competitorId": "55852eaa-9c81-c321-b631-9bab4e9f1227",
+      "title": "Lachlan O\u0027Shea"
+    },
+    "awayTeam": {
+      "competitorId": "f961375d-f28a-58c5-4624-0fa068943c37",
+      "title": "Dharringarra Trewhella"
+    }
+  },
+  {
+    "eventId": "66b167f0-4426-6cf5-b7c3-3cc95fdb3dac",
+    "sportType": "Boxing",
+    "startTime": "2025-09-18T07:00:00Z",
+    "status": "NotStarted",
+    "isAmericanSport": false,
+    "homeTeam": {
+      "competitorId": "95b8dd08-87af-6184-782f-4c08e8d0c0c2",
+      "title": "Jacob Ng"
+    },
+    "awayTeam": {
+      "competitorId": "a49f884e-8154-579f-45ca-ac3f8b9727b8",
+      "title": "Rikki Naito"
+    }
+  },
+  {
+    "eventId": "10bd704a-bdeb-87d9-e2f6-9319d0f71596",
+    "sportType": "Boxing",
+    "startTime": "2025-09-18T08:00:00Z",
+    "status": "NotStarted",
+    "isAmericanSport": false,
+    "homeTeam": {
+      "competitorId": "f90934bb-ad67-5f94-28da-d74478c603da",
+      "title": "Brock Jarvis"
+    },
+    "awayTeam": {
+      "competitorId": "26bf2031-1558-7b7a-30c7-1bd183e5cee6",
+      "title": "Ken Aitken"
+    }
+  },
+  {
+    "eventId": "f260405a-cf58-85a3-a2d4-6436479531f3",
+    "sportType": "Boxing",
+    "startTime": "2025-09-18T09:00:00Z",
+    "status": "NotStarted",
+    "isAmericanSport": false,
+    "homeTeam": {
+      "competitorId": "33b3074e-7b05-1520-d367-c5cde9a94a80",
+      "title": "PAULO AOKUSO"
+    },
+    "awayTeam": {
+      "competitorId": "d0f5dd6f-348e-cf1a-5939-87c5465fc346",
+      "title": "Casey Dixon"
+    }
+  },
+  {
+    "eventId": "f5feedf2-802d-04ff-88d8-28003f7029ad",
+    "sportType": "Boxing",
+    "startTime": "2025-09-18T10:00:00Z",
+    "status": "NotStarted",
+    "isAmericanSport": false,
+    "homeTeam": {
+      "competitorId": "f3a37c68-ba09-44e7-c3f7-453c09fe3f21",
+      "title": "Liam Wilson"
+    },
+    "awayTeam": {
+      "competitorId": "16afaa18-a2aa-439c-af25-466b81dee312",
+      "title": "Sandy Tavarez Montilla"
+    }
+  },
+  {
+    "eventId": "1b631bfe-c0d1-1f26-6d21-7978222e3bb9",
+    "sportType": "Boxing",
+    "startTime": "2025-09-10T21:00:00Z",
+    "status": "NotStarted",
+    "isAmericanSport": false,
+    "homeTeam": {
+      "competitorId": "8ec32bfd-01ee-95fa-9ea1-3748078f63bb",
+      "title": "Bek Nurmaganbet"
+    },
+    "awayTeam": {
+      "competitorId": "6803348f-a82d-a5c5-d754-912a9de6466e",
+      "title": "Steven Sumpter"
+    }
+  },
+  {
+    "eventId": "4fd7ca6f-be59-0ea7-1589-ed37ec39eaed",
+    "sportType": "Boxing",
+    "startTime": "2025-09-13T15:00:00Z",
+    "status": "NotStarted",
+    "isAmericanSport": false,
+    "homeTeam": {
+      "competitorId": "23580093-c7a3-542b-ad17-29758264cfc6",
+      "title": "Jim Donovan"
+    },
+    "awayTeam": {
+      "competitorId": "29579ffa-7043-734a-2f38-f319ae9c03fd",
+      "title": "Lukasz Barabasz"
+    }
+  },
+  {
+    "eventId": "ddf5c295-3458-2e3e-b4ec-c15e7f71c1f4",
+    "sportType": "Boxing",
+    "startTime": "2025-09-13T15:00:00Z",
+    "status": "NotStarted",
+    "isAmericanSport": false,
+    "homeTeam": {
+      "competitorId": "f7dc7a89-c5cf-6945-902e-61ad76915853",
+      "title": "Kyle Smith"
+    },
+    "awayTeam": {
+      "competitorId": "022383ca-14d3-2f8d-f328-db645555be9d",
+      "title": "Connor Meanwell"
+    }
+  },
+  {
+    "eventId": "06abaf72-e430-45c5-c4c9-af05f3b878f8",
+    "sportType": "Boxing",
+    "startTime": "2025-09-13T15:00:00Z",
+    "status": "NotStarted",
+    "isAmericanSport": false,
+    "homeTeam": {
+      "competitorId": "ee76cb89-f557-6d72-8190-664b9b472288",
+      "title": "Ahmad El Ahmad"
+    },
+    "awayTeam": {
+      "competitorId": "b74c0dad-d673-a5dd-22f4-5aded39829a0",
+      "title": "Bryan Zapata"
+    }
+  },
+  {
+    "eventId": "1f253473-688c-acf7-990b-59b367f7c4a9",
+    "sportType": "Boxing",
+    "startTime": "2025-09-13T15:00:00Z",
+    "status": "NotStarted",
+    "isAmericanSport": false,
+    "homeTeam": {
+      "competitorId": "dc6bfeba-fbb2-c3a7-79b7-3b42ff47c5e6",
+      "title": "Victor Hoveling"
+    },
+    "awayTeam": {
+      "competitorId": "80497c4f-1c37-88a8-1fc9-e290ac83aee4",
+      "title": "Nasir Sadat"
+    }
+  },
+  {
+    "eventId": "d5257568-09a3-2b03-2923-7da4eada817a",
+    "sportType": "Boxing",
+    "startTime": "2025-09-13T15:00:00Z",
+    "status": "NotStarted",
+    "isAmericanSport": false,
+    "homeTeam": {
+      "competitorId": "1a621f9e-9366-ffda-2e25-2ccaaab6f312",
+      "title": "Maher Khatib"
+    },
+    "awayTeam": {
+      "competitorId": "2f2d2379-4d3f-4e68-e053-f02527695c18",
+      "title": "Payman Akbari"
+    }
+  },
+  {
+    "eventId": "43bd243d-ecf8-3370-0cf7-15cd24975565",
+    "sportType": "Boxing",
+    "startTime": "2025-09-13T16:00:00Z",
+    "status": "NotStarted",
+    "isAmericanSport": false,
+    "homeTeam": {
+      "competitorId": "cf5a77c7-e2a0-4a2f-4e59-3d4e729a2c6a",
+      "title": "Aaron Bowen"
+    },
+    "awayTeam": {
+      "competitorId": "beeeb002-d72c-742f-8150-ea1b57ccf40a",
+      "title": "Carlos Miguel Ronner"
+    }
+  },
+  {
+    "eventId": "64b1754c-645a-2fe7-74c7-5e0f1d80e145",
+    "sportType": "Boxing",
+    "startTime": "2025-09-13T16:00:00Z",
+    "status": "NotStarted",
+    "isAmericanSport": false,
+    "homeTeam": {
+      "competitorId": "55ea5e69-1e99-1e8e-8039-0d474622e106",
+      "title": "Freddy Kiwitt"
+    },
+    "awayTeam": {
+      "competitorId": "110ee267-84e0-3406-6d06-7fa662b54ef0",
+      "title": "Ifrain Alcantara"
+    }
+  },
+  {
+    "eventId": "a92af48a-ee03-5774-0b21-be80b5fe56e6",
+    "sportType": "Boxing",
+    "startTime": "2025-09-13T16:00:00Z",
+    "status": "NotStarted",
+    "isAmericanSport": false,
+    "homeTeam": {
+      "competitorId": "1688e34d-1bf5-bc1c-7d4f-d7ee8d6f931c",
+      "title": "Melissa Mortensen"
+    },
+    "awayTeam": {
+      "competitorId": "63f4d483-8d4b-34fd-6b81-de23098922c4",
+      "title": "Cristina Garganese"
+    }
+  }
+]

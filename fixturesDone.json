@@ -1,0 +1,17 @@
+[
+  {
+    "eventId": "g4893242-d8d8-3242-d9e6-50ff8df9s0f033",
+    "sportType": "Boxing",
+    "startTime": "2025-09-06T03:00:00Z",
+    "status": "NotStarted",
+    "isAmericanSport": false,
+    "homeTeam": {
+      "competitorId": "287d41ab-c0d6-852a-aa61-c301ed7bfd94",
+      "title": "Hatice Akbas"
+    },
+    "awayTeam": {
+      "competitorId": "bc133454-66de-f1c0-c3c9-b5437cbfd27f",
+      "title": "Sakshi Chaudhary"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+## Build results
+bin/
+obj/
+out/
+
+## Rider
+.idea/
+
+## Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## VS Code
+.vscode/
+
+## Playwright
+playwright.config.ts
+playwright-report/
+test-results/
+pw-output/
+.playwright/
+
+# Playwright downloaded browsers (if checked in by mistake)
+**/ms-playwright/
+
+## User-specific files
+*.swp
+*~
+*.tmp
+*.log
+*.bak
+
+## OS-specific
+.DS_Store
+Thumbs.db
+
+## NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+## Dotnet tools
+*.dotnet_tool_manifest.json
+
+## Other
+logs/
+.env
+*.db
+*.sqlite
